@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">BMI Calculator</string>
+    <string name="your_name" translatable="false">Your Name</string>
+    <string name="gender" translatable="false">Gender</string>
+    <string name="age" translatable="false">Age</string>
+    <string name="height" translatable="false">Height</string>
+    <string name="weight" translatable="false">Weight</string>
+    <string name="calculate" translatable="false">Calculate</string>
+
+
+    <string name="body_mass_index" translatable="false">BODY MASS INDEX</string>
+    <string name="welcome_to_body_mass_calculator" translatable="false">Welcome to Body Mass Calculator</string>
+    <string name="height_in_feet" translatable="false">Height in Feet</string>
+    <string name="weight_in_kg" translatable="false">Weight in KG</string>
+    <string name="pic" translatable="false">bmi</string>
+    <string name="pic6" translatable="false">TODO</string>
+    <string name="ok" translatable="false">TODO</string>
+    <string name="ok2" translatable="false">TODO</string>
+    <string name="go_back" translatable="false">Go Back</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="picss" translatable="false">TODO</string>
+    <string name="second">TODO</string>
+
+
+</resources>
